@@ -1,4 +1,4 @@
-"Calcul de petites racines de p(x)=0 mod N"- link https://github.com/AsionNguyen/Project-C/tree/main/flint 
+"Calcul de petites racines de p(x)=0 mod N"- link https://github.com/AsionNguyen/Project-C/tree/main/flint/PetitesRacines
 					par NGUYEN Thi Thu Quyen (thi-thu-quyen.nguyen@polytechnique.edu)
 			    		et CHARTOUNY Maya (mayachartouny@hotmail.com)
 ------------------------------------------------------------------------------------------------------------
