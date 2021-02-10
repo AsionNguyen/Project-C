@@ -2,7 +2,9 @@
 					par NGUYEN Thi Thu Quyen (thi-thu-quyen.nguyen@polytechnique.edu)
 			    		et CHARTOUNY Maya (mayachartouny@hotmail.com)
 ------------------------------------------------------------------------------------------------------------
-+ M2_rapport.pdf: la théorie du projet, il donne le link GitHub du code à la page 22.
++ M2_rapport.pdf: la théorie du projet, il donne le link GitHub du code à la page 21.
+
++ M2_soutenance.pdf: la bref présentation du projet, plusieurs calculs sont résumés.
 
 + src: 
 	- Makefile
